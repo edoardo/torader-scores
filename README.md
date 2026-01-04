@@ -1,2 +1,3 @@
-# torader-scores
-Diatonic button accordion (torader in norwegian) tunes engraved with Lilypond
+# Torader scores
+
+Diatonic button accordion (torader in norwegian) tunes engraved with [Lilypond](http://lilypond.org).
